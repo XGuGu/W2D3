@@ -1,0 +1,31 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-size: 38px
+
+}
+
+h2 {
+  font-size: 32px
+
+}
+
+ol {
+  list-style: georgian;
+}
+
+#logo {
+  width:100px
+  
+}
+
+.ingredients-list {
+  list-style: square inside;
+}
+
+ul li a {
+  color:inherit;
+
+}
